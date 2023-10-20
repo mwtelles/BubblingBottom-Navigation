@@ -1,6 +1,6 @@
 # BubblingBottom Navigation - Navegação que Flui! 🌊🚀
 
-Oi, criativos do mundo digital! 🌍✨ Estou de volta com outra criação do meu desafio de projetos de 30 dias. Desta vez, vamos mergulhar fundo na "BubblingBottomNav", onde a navegação se torna uma aventura animada. Prepare-se para ver os menus subindo como bolhas! 🎈👀
+Oi, criativos do mundo digital! 🌍✨ Estou de volta com outra criação do meu desafio de projetos de 30 dias. Desta vez, vamos mergulhar fundo na experiência de navegação em aplicativos, onde a navegação se torna uma aventura animada. Prepare-se para ver os menus subindo como bolhas! 🎈👀
 
 ### Mas espera... O que é um "Bubbling Bottom"? 🤔💭
 
